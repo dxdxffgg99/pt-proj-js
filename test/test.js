@@ -1,3 +1,1 @@
-import os from 'os';
-
-os.exit(0);
+console.log("hello i am test")
